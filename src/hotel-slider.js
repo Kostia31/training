@@ -1,4 +1,4 @@
-// import Swiper from "swiper/swiper-bundle";
+import Swiper from "swiper/swiper-bundle";
 const swiper = new Swiper(".slider-img", {
   navigation: {
     nextEl: ".swiper-button-next",
