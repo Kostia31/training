@@ -10,6 +10,11 @@
 
 /* SLIDER */
 
+
+.swiper-button-next,.swiper-button-prev{
+  width: calc(var(--swiper-navigation-size)/ 14 * 27);
+}
+
 .img-slide {
   width: 100%;
 }
