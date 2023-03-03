@@ -44,8 +44,16 @@ img {
   height: auto;
 }
 
+@media screen and (min-width:375px) {
+  .container{
+    width: 375px;
+  }
+  
+}
+
 @media screen and (min-width: 768px) {
 .container {
+  width: 768px;
     padding-left: 32px;
   padding-right: 32px;
   }
@@ -56,6 +64,7 @@ img {
 
 @media screen and (min-width: 1440px) {
   .container {
+    width: 1440px;
     padding-left: 32px;
   padding-right: 32px;
   }
