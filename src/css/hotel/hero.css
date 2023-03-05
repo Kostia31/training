@@ -60,8 +60,8 @@
 .swiper-button-prev::after,
 .swiper-button-next::after {
   display: block;
-  content: " ";
-  font-size: var(--swiper-navigation-size);
+  content: "  ";
+
   color: #121212;
   background-color: red;
 }
