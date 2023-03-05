@@ -23,6 +23,10 @@
   overflow: hidden;
 }
 
+.swiper-slide {
+  width: 100%;
+}
+
 .slider-img {
   margin: 0;
   margin-left: 20px;
