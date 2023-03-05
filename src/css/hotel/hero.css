@@ -22,6 +22,7 @@
 
 .swiper-slide {
   width: 100%;
+  margin-right: 20px;
 }
 
 .slider-img {
@@ -60,6 +61,7 @@
 .swiper-button-next::after {
   font-size: var(--swiper-navigation-size);
   color: #121212;
+  background-color: red;
 }
 
 .swiper-button-next::after:active {
