@@ -13,10 +13,7 @@
   width: 436px;
 }
 
-.img-slide {
-  width: 250px;
-  height: 429px;
-}
+
 
 .swiper-position {
   position: relative;
@@ -29,7 +26,7 @@
 
 .slider-img {
   margin: 0;
-  margin-left: 20px;
+  
 }
 
 .swiper-wrapper {
