@@ -11,6 +11,7 @@ const swiper = new Swiper('.slider-img', {
     onlyInViewport: true,
   },
 
+  loop: true,
   preloadImages: true,
   slidesPerView: 1.5,
   simulateTouch: true,
